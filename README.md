@@ -1,4 +1,4 @@
-This is a simple Gradle project created for my university course. It demonstrates the basic setup and execution of a Gradle-based Java project, including unit testing.
+This is a simple Gradle project created for my university course. It demonstrates the basic setup and execution of a Gradle-based Java project, including unit testing.    (Code is pushed on the second branch for safety in master )
 
 
 # Creation of my first simple gradle project. 
